@@ -1,0 +1,47 @@
+2021-10-29 16:54:34.877058
+历史定位签到模式
+多人签到模式T2020211164,T2020211101
+当前IP：20.185.30.165,
+
+ 美国Microsoft数据中心
+
+系统时间：2021-10-29 16:54:35
+UTC时间：2021-10-29 17:54:35
+北京时间：2021-10-30 00:54:35
+北京时间与系统时间误差：7:59:59.189040
+2021-10-29 16:54:35.811035:T2020211164签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张昊洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME张昊洋
+定位 115.786569，28.656235，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79804955112177,"lat":28.659317219931439},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"S49(枫生快速路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786574&lat=28.656226&sfby=1
+签到成功
+2021-10-29 16:55:12.891488:T2020211164签到结束
+2021-10-29 16:55:13.067937:T2020211101签到开始
+cookie文件存在
+cookie文件加载成功
+NAME钟振强
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME钟振强
+定位 115.786585，28.656329，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79805362929528,"lat":28.65942332106588},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"S49(枫生快速路)","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786578&lat=28.656332&sfby=1
+签到成功
+2021-10-29 16:55:35.658969:T2020211101签到结束
+2人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2112826415770304512}
+2021-10-29 16:55:39.422637程序结束
+######################################################################
+
+
+
+
