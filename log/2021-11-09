@@ -1,0 +1,69 @@
+2021-11-09 04:22:04.563613
+历史定位签到模式
+多人签到模式20203979,20206374,20203941,20201070,20207588
+当前IP：20.114.232.57,
+
+ 美国DXCTechnology
+
+系统时间：2021-11-09 04:22:06
+UTC时间：2021-11-09 04:22:05
+北京时间：2021-11-09 12:22:04
+北京时间与系统时间误差：7:59:57.714328
+2021-11-09 04:22:06.285752:20203979签到开始
+NAME程德辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME程德辉
+COOKIE OK
+开始签到
+NAME程德辉
+定位 116.02624，28.695145，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.0377687185057,"lat":28.698362983484569},"formatted_address":"江西省南昌市南昌县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.026246&lat=28.695139&sfby=1
+签到成功
+2021-11-09 04:22:57.144440:20203979签到结束
+2021-11-09 04:22:57.206908:20206374签到开始
+NAME曾政洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME曾政洋
+COOKIE OK
+已经签到
+2021-11-09 04:23:11.167591:20206374签到结束
+2021-11-09 04:23:11.247098:20203941签到开始
+NAME王志豪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME王志豪
+COOKIE OK
+已经签到
+2021-11-09 04:23:26.572607:20203941签到结束
+2021-11-09 04:23:26.735889:20201070签到开始
+NAME张育鹏
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME张育鹏
+COOKIE OK
+已经签到
+2021-11-09 04:23:35.995218:20201070签到结束
+2021-11-09 04:23:36.093879:20207588签到开始
+NAME张强
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+NAME张强
+COOKIE OK
+已经签到
+2021-11-09 04:23:45.577473:20207588签到结束
+5人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2128014639178235905}
+2021-11-09 04:23:48.468514程序结束
+######################################################################
+
+
+
+
