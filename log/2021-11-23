@@ -1,0 +1,206 @@
+2021-11-23 17:10:11.405962
+输入定位签到模式
+多人签到模式20203979,20206374,20203941,20201070,20207588,20203177,20200214,20202710,20202141,20206375,20206376
+当前IP：20.110.71.188,
+
+ 美国DXCTechnology
+
+系统时间：2021-11-23 17:10:16
+UTC时间：2021-11-23 17:10:11
+北京时间：2021-11-24 01:10:11
+北京时间与系统时间误差：7:59:54.716240
+2021-11-23 17:10:16.283840:20203979签到开始
+cookie文件存在
+cookie文件加载成功
+NAME程德辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.0323，28.6983，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04382526390113,"lat":28.70159465441515},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032292&lat=28.69832&sfby=1
+NAME程德辉
+定位 116.032292，28.69832，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.0438431977579,"lat":28.70165303136954},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.03231&lat=28.698378&sfby=1
+签到成功
+2021-11-23 17:10:43.492640:20203979签到结束
+2021-11-23 17:10:43.575741:20206374签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾政洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.03231，28.698378，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04386728862716,"lat":28.701600184146668},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032334&lat=28.698325&sfby=1
+NAME曾政洋
+定位 116.032334，28.698325，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04383425540132,"lat":28.70165870689591},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032301&lat=28.698384&sfby=1
+签到成功
+2021-11-23 17:10:58.899392:20206374签到结束
+2021-11-23 17:10:59.016880:20203941签到开始
+cookie文件存在
+cookie文件加载成功
+NAME王志豪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032301，28.698384，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04378522630727,"lat":28.701715560513713},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032252&lat=28.698441&sfby=1
+NAME王志豪
+定位 116.032252，28.698441，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04369714183804,"lat":28.70174626473936},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032164&lat=28.698472&sfby=1
+签到成功
+2021-11-23 17:11:10.937015:20203941签到结束
+2021-11-23 17:11:11.047065:20201070签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张育鹏
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032164，28.698472，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04361695063746,"lat":28.701819850388416},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032084&lat=28.698546&sfby=1
+NAME张育鹏
+定位 116.032084，28.698546，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04363399357541,"lat":28.701768888875664},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032101&lat=28.698495&sfby=1
+签到成功
+2021-11-23 17:11:23.782346:20201070签到结束
+2021-11-23 17:11:24.021950:20207588签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张强
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032101，28.698495，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04370198077577,"lat":28.701688216086887},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032169&lat=28.698414&sfby=1
+NAME张强
+定位 116.032169，28.698414，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04362477029096,"lat":28.701759910914587},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032092&lat=28.698486&sfby=1
+签到成功
+2021-11-23 17:11:40.099348:20207588签到结束
+2021-11-23 17:11:40.206262:20203177签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张政欢
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032092，28.698486，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04368607238327,"lat":28.701811079922885},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032153&lat=28.698537&sfby=1
+NAME张政欢
+定位 116.032153，28.698537，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04372514296294,"lat":28.701858661233229},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032192&lat=28.698584&sfby=1
+签到成功
+2021-11-23 17:11:53.147716:20203177签到结束
+2021-11-23 17:11:53.312638:20200214签到开始
+cookie文件存在
+cookie文件加载成功
+NAME吴亚奇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032192，28.698584，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04372022977893,"lat":28.701810626005245},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032187&lat=28.698536&sfby=1
+NAME吴亚奇
+定位 116.032187，28.698536，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04379421116426,"lat":28.701770659881384},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032261&lat=28.698496&sfby=1
+签到成功
+2021-11-23 17:12:04.361758:20200214签到结束
+2021-11-23 17:12:04.417608:20202710签到开始
+cookie文件存在
+cookie文件加载成功
+NAME李帅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032261，28.698496，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04374705343979,"lat":28.701789532404164},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032214&lat=28.698515&sfby=1
+NAME李帅
+定位 116.032214，28.698515，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04384025302397,"lat":28.701706201712818},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032307&lat=28.698431&sfby=1
+签到成功
+2021-11-23 17:12:16.531095:20202710签到结束
+2021-11-23 17:12:16.778047:20202141签到开始
+cookie文件存在
+cookie文件加载成功
+NAME巫文丽
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032307，28.698431，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.0438492435227,"lat":28.701769168741597},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032316&lat=28.698494&sfby=1
+NAME巫文丽
+定位 116.032316，28.698494，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04381538785938,"lat":28.701814937025337},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032282&lat=28.69854&sfby=1
+签到成功
+2021-11-23 17:12:29.735883:20202141签到结束
+2021-11-23 17:12:29.887239:20206375签到开始
+cookie文件存在
+cookie文件加载成功
+NAME桂旋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032282，28.69854，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04376819899832,"lat":28.701789586230654},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032235&lat=28.698515&sfby=1
+NAME桂旋
+定位 116.032235，28.698515，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04378632059873,"lat":28.701729671607845},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032253&lat=28.698455&sfby=1
+签到成功
+2021-11-23 17:12:44.552147:20206375签到结束
+2021-11-23 17:12:44.717261:20206376签到开始
+cookie文件存在
+cookie文件加载成功
+NAME邹鑫
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.032253，28.698455，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.04381641608748,"lat":28.70173463062385},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032283&lat=28.69846&sfby=1
+NAME邹鑫
+定位 116.032283，28.69846，江西省南昌市南昌县昌东镇天祥大道388号江西工业职业技术学院
+{"status":0,"result":{"location":{"lng":116.0438223389665,"lat":28.70167577016411},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E5%8D%97%E6%98%8C%E5%8E%BF%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E6%98%8C%E4%B8%9C%E9%95%87%E5%A4%A9%E7%A5%A5%E5%A4%A7%E9%81%93388%E5%8F%B7%E6%B1%9F%E8%A5%BF%E5%B7%A5%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032289&lat=28.698401&sfby=1
+签到成功
+2021-11-23 17:12:55.810374:20206376签到结束
+11人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2149082647497588737}
+2021-11-23 17:12:59.608613程序结束
+######################################################################
+
+
+
+
