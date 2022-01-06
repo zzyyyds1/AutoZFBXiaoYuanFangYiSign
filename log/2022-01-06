@@ -170,3 +170,250 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2212570874350714891}
 
 
 
+2022-01-06 16:59:11.253691
+历史定位签到模式
+多人签到模式20203979,20206374,20203941,20201070,20207588,20203177,20200214,20202710,20202141,20206375,20206376,20191241,20192630,20201892,20213065,20214916,20213127
+当前IP：20.110.106.26,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-06 16:59:12
+UTC时间：2022-01-06 16:59:11
+北京时间：2022-01-07 00:59:11
+北京时间与系统时间误差：7:59:58.631912
+2022-01-06 16:59:12.368157:20203979签到开始
+cookie文件存在
+cookie文件加载成功
+NAME程德辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME程德辉
+定位 116.032383，28.698483，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04391647619741,"lat":28.701767432709116},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032383&lat=28.698492&sfby=1
+签到成功
+2022-01-06 16:59:51.215049:20203979签到结束
+2022-01-06 16:59:51.324131:20206374签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾政洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME曾政洋
+定位 116.032374，28.698395，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.0439174932391,"lat":28.701671389910176},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032384&lat=28.698396&sfby=1
+签到成功
+2022-01-06 17:00:19.035717:20206374签到结束
+2022-01-06 17:00:19.052417:20203941签到开始
+cookie文件存在
+cookie文件加载成功
+NAME王志豪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME王志豪
+定位 116.032449，28.69849，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04398046229204,"lat":28.70177382424171},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032447&lat=28.698498&sfby=1
+签到成功
+2022-01-06 17:00:39.632728:20203941签到结束
+2022-01-06 17:00:39.764774:20201070签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张育鹏
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-06 17:00:49.183667:20201070签到结束
+2022-01-06 17:00:49.360307:20207588签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张强
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME张强
+定位 116.032612，28.698493，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04414503291133,"lat":28.70177853659424},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032611&lat=28.698502&sfby=1
+签到成功
+2022-01-06 17:00:59.419872:20207588签到结束
+2022-01-06 17:00:59.577965:20203177签到开始
+cookie文件存在
+cookie文件加载成功
+NAME张政欢
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME张政欢
+定位 116.032701，28.698427，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04423011686835,"lat":28.701708719426269},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032696&lat=28.698432&sfby=1
+签到成功
+2022-01-06 17:01:11.525335:20203177签到结束
+2022-01-06 17:01:11.635013:20200214签到开始
+cookie文件存在
+cookie文件加载成功
+NAME吴亚奇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME吴亚奇
+定位 116.032624，28.698382，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04416284358928,"lat":28.701659739591045},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032629&lat=28.698383&sfby=1
+签到成功
+2022-01-06 17:01:23.424292:20200214签到结束
+2022-01-06 17:01:23.641604:20202710签到开始
+cookie文件存在
+cookie文件加载成功
+NAME李帅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME李帅
+定位 116.032551，28.698469，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04408563378299,"lat":28.70174421995045},"formatted_address":"江西省南昌市南昌县瑶湖西大道辅路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"瑶湖西大道辅路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.032552&lat=28.698468&sfby=1
+签到成功
+2022-01-06 17:01:33.862708:20202710签到结束
+2022-01-06 17:01:34.018021:20202141签到开始
+cookie文件存在
+cookie文件加载成功
+NAME巫文丽
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-06 17:01:41.906523:20202141签到结束
+2022-01-06 17:01:42.047169:20206375签到开始
+cookie文件存在
+cookie文件加载成功
+NAME桂旋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME桂旋
+定位 116.18149，28.228727，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.19298068970677,"lat":28.231567925103346},"formatted_address":"江西省南昌市进贤县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"进贤县","town":"","town_code":"","distance":"","direction":"","adcode":"360124","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E8%BF%9B%E8%B4%A4%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&lng=116.181486&lat=28.228732&sfby=1
+签到成功
+2022-01-06 17:01:52.563403:20206375签到结束
+2022-01-06 17:01:52.617715:20206376签到开始
+cookie文件存在
+cookie文件加载成功
+NAME邹鑫
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME邹鑫
+定位 116.177532，28.224089，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.1890238010063,"lat":28.2269935854512},"formatted_address":"江西省南昌市进贤县","business":"李渡","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"进贤县","town":"","town_code":"","distance":"","direction":"","adcode":"360124","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E8%BF%9B%E8%B4%A4%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&lng=116.177538&lat=28.224082&sfby=1
+签到成功
+2022-01-06 17:02:03.443448:20206376签到结束
+2022-01-06 17:02:03.603176:20191241签到开始
+cookie文件存在
+cookie文件加载成功
+NAME谢东宝
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME谢东宝
+定位 115.050997，24.771113，江西省赣州市
+{"status":0,"result":{"location":{"lng":115.06249701784637,"lat":24.774497093701777},"formatted_address":"江西省赣州市定南县","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"定南县","town":"","town_code":"","distance":"","direction":"","adcode":"360728","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E5%AE%9A%E5%8D%97%E5%8E%BF&street=%E8%B5%A3%E5%B7%9E%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E5%AE%9A%E5%8D%97%E5%8E%BF&bstreet=%E8%B5%A3%E5%B7%9E%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E5%AE%9A%E5%8D%97%E5%8E%BF&lng=115.051003&lat=24.771113&sfby=1
+签到成功
+2022-01-06 17:02:15.156910:20191241签到结束
+2022-01-06 17:02:15.161372:20192630签到开始
+cookie文件存在
+cookie文件加载成功
+NAME杜兴宇
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME杜兴宇
+定位 115.963252，28.676629，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.97472717858678,"lat":28.67905420679091},"formatted_address":"江西省南昌市青山湖区京东大道689号","business":"北京东路,南昌大学,京东大道","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","distance":"63","direction":"东南","adcode":"360111","street":"京东大道","street_number":"689号"},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.963255&lat=28.676624&sfby=1
+签到成功
+2022-01-06 17:02:31.709412:20192630签到结束
+2022-01-06 17:02:31.789034:20201892签到开始
+cookie文件存在
+cookie文件加载成功
+NAME段锦辉
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME段锦辉
+定位 116.011882，29.715469，江西省九江市
+{"status":0,"result":{"location":{"lng":116.02345973098837,"lat":29.719079574610338},"formatted_address":"江西省九江市濂溪区G351(浔阳东路)","business":"五里,师专,南门湖","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"濂溪区","town":"","town_code":"","distance":"","direction":"","adcode":"360402","street":"G351(浔阳东路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E6%BF%82%E6%BA%AA%E5%8C%BA&street=%E4%B9%9D%E6%B1%9F%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&bstreet=%E4%B9%9D%E6%B1%9F%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&lng=116.011873&lat=29.71546&sfby=1
+签到成功
+2022-01-06 17:02:52.490838:20201892签到结束
+2022-01-06 17:02:52.593329:20213065签到开始
+cookie文件存在
+cookie文件加载成功
+NAME颜宇轩
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME颜宇轩
+定位 115.920159，28.556161，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.93139674909743,"lat":28.55907647190796},"formatted_address":"江西省南昌市南昌县西商业街1-1号","business":"莲塘,迎宾中大道,澄湖中路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"72","direction":"东南","adcode":"360121","street":"西商业街","street_number":"1-1号"},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.920152&lat=28.556163&sfby=1
+签到成功
+2022-01-06 17:03:08.226069:20213065签到结束
+2022-01-06 17:03:08.235221:20214916签到开始
+cookie文件存在
+cookie文件加载成功
+NAME赖苏怡
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME赖苏怡
+定位 114.785158，24.760803，江西省赣州市
+{"status":0,"result":{"location":{"lng":114.79653538002461,"lat":24.763619717573108},"formatted_address":"江西省赣州市龙南市","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"龙南市","town":"","town_code":"","distance":"","direction":"","adcode":"360783","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E9%BE%99%E5%8D%97%E5%B8%82&street=%E8%B5%A3%E5%B7%9E%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E9%BE%99%E5%8D%97%E5%B8%82&bstreet=%E8%B5%A3%E5%B7%9E%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E9%BE%99%E5%8D%97%E5%B8%82&lng=114.785158&lat=24.760802&sfby=1
+签到成功
+2022-01-06 17:03:24.381068:20214916签到结束
+2022-01-06 17:03:24.630677:20213127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄泉盛
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME黄泉盛
+定位 116.128512，28.290568，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.14008616806216,"lat":28.29349045427791},"formatted_address":"江西省南昌市进贤县X072(长安路)","business":"文港","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"进贤县","town":"","town_code":"","distance":"","direction":"","adcode":"360124","street":"X072(长安路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E8%BF%9B%E8%B4%A4%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&lng=116.128505&lat=28.29057&sfby=1
+签到成功
+2022-01-06 17:03:38.242844:20213127签到结束
+17人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2212853569131692033}
+2022-01-06 17:03:43.558030程序结束
+######################################################################
+
+
+
+
