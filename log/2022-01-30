@@ -1,0 +1,33 @@
+2022-01-30 16:49:32.600698
+历史定位签到模式
+单人签到模式
+当前IP：20.106.77.238,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-30 16:49:38
+UTC时间：2022-01-30 16:49:32
+北京时间：2022-01-31 00:49:32
+北京时间与系统时间误差：7:59:53.804834
+2022-01-30 16:49:38.195223:20206374签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾政洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME曾政洋
+定位 116.187505，28.232414，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.19902284095864,"lat":28.23512087302269},"formatted_address":"江西省南昌市进贤县X071","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"进贤县","town":"","town_code":"","distance":"","direction":"","adcode":"360124","street":"X071","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E8%BF%9B%E8%B4%A4%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E8%BF%9B%E8%B4%A4%E5%8E%BF&lng=116.187515&lat=28.232405&sfby=1
+签到成功
+2022-01-30 16:49:59.035593:20206374签到结束
+曾政洋20206374签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2247629059914514432}
+2022-01-30 16:50:03.210587程序结束
+######################################################################
+
+
+
+
