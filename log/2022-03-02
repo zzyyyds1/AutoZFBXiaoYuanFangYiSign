@@ -1,0 +1,33 @@
+2022-03-02 16:49:32.672588
+历史定位签到模式
+单人签到模式
+当前IP：13.64.137.150,
+
+ 美国Microsoft公司
+
+系统时间：2022-03-02 16:49:33
+UTC时间：2022-03-02 16:49:32
+北京时间：2022-03-03 00:49:32
+北京时间与系统时间误差：7:59:58.416366
+2022-03-02 16:49:33.583706:20206374签到开始
+cookie文件存在
+cookie文件加载成功
+NAME曾政洋
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME曾政洋
+定位 116.030693，28.700263，江西省南昌市
+{"status":0,"result":{"location":{"lng":116.04222167627219,"lat":28.703538837041085},"formatted_address":"江西省南昌市南昌县艾溪湖二路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","distance":"","direction":"","adcode":"360121","street":"艾溪湖二路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=116.03069&lat=28.700272&sfby=1
+签到成功
+2022-03-02 16:50:01.925495:20206374签到结束
+曾政洋20206374签到成功！
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2292565205798666240}
+2022-03-02 16:50:07.757521程序结束
+######################################################################
+
+
+
+
